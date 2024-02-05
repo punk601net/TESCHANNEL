@@ -760,6 +760,12 @@ https://yangbacagoblog.kawaguchimaeda.my.id:2097/channel(lc125fnbp0)/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=0020a9dd35db0d63bc03e2d10bb46d58:a49b35665fee8b7e16eb366d8ef9c276
 https://yangbacagoblog.kawaguchimaeda.my.id:2097/channel(lc1051jtk0)/master.mpd
 
+
+#EXTINF:-1 group-title="OPTUS SPORT" tvg-logo="https://image.kawaguchimaeda.com/2024/02/boolkuda-1.png",OPTUS SPORT ##1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f78f7e32001e4eea8365d7c22595a048:19d2c7da1312f547de174dbfe2f00b69
+http://optus.upp.my.id/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
+
 #EXTINF:-1 group-title="OPTUS SPORT" tvg-logo="https://image.kawaguchimaeda.com/2024/02/boolkuda-1.png",OPTUS SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03b47c8e5bdf41cbbbef29be6a18de9e:3e13b4627eed3885cb58818fdc39d66f
