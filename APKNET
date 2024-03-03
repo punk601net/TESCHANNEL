@@ -761,18 +761,18 @@ https://link.zozotv.xyz:443/rozila969/abc12345/58
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.ibb.co/ggP9W2C/xingkong.png" group-title="9.KOREA-CHINA",221.XingkongTV
+#EXTINF:-1 tvg-id="" tvg-url="https://s.id/KITKATTV" tvg-logo="https://i.ibb.co/ggP9W2C/xingkong.png" group-title="KOREA - CHINA",221.XingkongTV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #è:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="9.KOREA-CHINA" tvg-logo="https://i.ibb.co/qjzmxvs/anhui-1.png",222.Anhui TV
+#EXTINF:-1 group-title="KOREA - CHINA" tvg-logo="https://i.ibb.co/qjzmxvs/anhui-1.png",222.Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
-#EXTINF:-1 group-title="9.KOREA-CHINA" tvg-logo="https://i.ibb.co/ww9yfRC/toonmax.png",223.Toonmax TV
+#EXTINF:-1 group-title="KOREA - CHINA" tvg-logo="https://i.ibb.co/ww9yfRC/toonmax.png",223.Toonmax TV
 http://210.210.155.35/uq2663/h/h227/index.m3u8
   
   
@@ -781,23 +781,23 @@ http://210.210.155.35/uq2663/h/h227/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="9.KOREA-CHINA" tvg-logo="https://i.ibb.co/vJPHfNk/tvn.png",231.Tvn
+#EXTINF:-1 group-title="KOREA - CHINA" tvg-logo="https://i.ibb.co/vJPHfNk/tvn.png",231.Tvn
 https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd|referer=https://www.visionplus.id
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SPdB9RR/tvnmovies.png" group-title="9.KOREA-CHINA",232.Tvn Movies 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SPdB9RR/tvnmovies.png" group-title="KOREA - CHINA",232.Tvn Movies 
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd|referer=https://www.visionplus.id 
  
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="9.KOREA-CHINA" tvg-logo="https://i.ibb.co/0nZQ363/k.png", 233.K+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA - CHINA" tvg-logo="https://i.ibb.co/0nZQ363/k.png", 233.K+
 ##http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 http://xtv.ooo:8080/3212571066/abc123/350980  
  
   
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="9.KOREA-CHINA" tvg-logo="https://i.ibb.co/TWrDRn5/kbsworld.png",234.Kbs World  
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KOREA - CHINA" tvg-logo="https://i.ibb.co/TWrDRn5/kbsworld.png",234.Kbs World  
 http://xtv.ooo:8080/3212571066/abc123/350981
   
 
