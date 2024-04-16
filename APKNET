@@ -1,5 +1,8 @@
 #EXTM3U billed-msg="# IPTV PLAYLIST PREMIUM 2024 #", url-tvg="https://raw.githubusercontent.com/thefirefox12537/streams/master/epg/guide.xml.gz" m3uautoload=1 cache=500 deinterlace=1 refresh="6"
 
+#EXTINF:-1 tvg-logo="" group-title="TEST",SSC TEST
+https://raw.githubusercontent.com/uploadplaylist/clon/main/ssc1.m3u8
+
 ####### NASIONAL #######   
 
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-logo="https://i.ibb.co/p46Tgpn/indosiar.png" group-title="NASIONAL" tvg-url="https://s.id/KITKATTV",001.Indosiar
